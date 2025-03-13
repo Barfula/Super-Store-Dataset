@@ -17,6 +17,11 @@
     <p><img src="images/superstore_dashboard.png" alt="Superstore Dashboard"></p>
 
     <!-- Embed Tableau Public dashboard (if applicable) -->
-    <iframe src="https://public.tableau.com/views/SuperStoreViz-Tableau/SalesDashboard?:language=en-US&publish=yes&:sid=&:display_count=yes" width="800" height="600"></iframe>
+    <iframe 
+  src="https://public.tableau.com/views/SuperStoreViz-Tableau/SalesDashboard?:embed=yes&:display_count=yes"
+  width="100%" 
+  height="600px"
+  title="Superstore Sales Dashboard"
+></iframe>
 </body>
 </html>
