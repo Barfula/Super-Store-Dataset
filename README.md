@@ -11,3 +11,7 @@ Check out the interactive dashboard on [Tableau Public](https://public.tableau.c
 ## Files
 - `SuperStoreSalesData-checkpoint.ipynb`: Python script for cleaning and analyzing the data.
 - `SuperStoreViz-Tableau.twb`: Tableau workbook for the dashboard.
+
+## 🔗 Links
+- [View Tableau Dashboard](https://public.tableau.com/views/SuperStoreViz-Tableau/SalesDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+- [Live Project Page](https://barfula.github.io/jennifer.coosemans.github.io/superstore.html)
