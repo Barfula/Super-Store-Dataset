@@ -16,7 +16,7 @@
     <!-- Embed images, Tableau dashboard, or links to notebooks -->
     <p><img src="images/superstore_dashboard.png" alt="Superstore Dashboard"></p>
 
-   <!-- superstore.html -->
+
 <div class="section">
     <h2>Data Exploration</h2>
     <div class="code-snippet">
