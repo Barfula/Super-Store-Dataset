@@ -9,7 +9,7 @@ This project analyzes sales data using Python, SQL, and Tableau. The dashboard p
 Check out the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/jennifer.coosemans/viz/SuperStoreViz-Tableau/SalesDashboard?publish=yes).
 
 ## Files
-- `SuperStoreSalesData-checkpoint.ipynb`: Python script for cleaning and analyzing the data.
+- `SuperStoreSalesData.ipynb`: Python script for cleaning and analyzing the data.
 - `SuperStoreViz-Tableau.twb`: Tableau workbook for the dashboard.
 
 ## 🔗 Links
